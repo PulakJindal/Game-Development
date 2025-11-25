@@ -1,2 +1,2 @@
 # Game-Development
-Trying to Understand coding by Exoring a new field - Gam Development
+Trying to Understand coding by Exploring a new field - Game Development
